@@ -10,6 +10,7 @@
   "homepage": "https://github.com/soulofmischief/easing-curves",
   "license": "MIT",
   "bugs": {},
+  "files": [ "/index.js"],
   "main": "/index.js",
   "repository": {},
   "scripts": {},
