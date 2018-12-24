@@ -1,0 +1,20 @@
+{
+  "name": "@soulofmischief/easing-curves",
+  "description": "A collection of easing curves for animating between values",
+  "version": "0.0.1",
+  "author": {
+    "name": "soulofmischief",
+    "email": "soulofmischief@protonmail.com",
+    "url": "https://github.com/soulofmischief"
+  },
+  "homepage": "https://github.com/soulofmischief/easing-curves",
+  "license": "MIT",
+  "bugs": {},
+  "main": "/index.js",
+  "repository": {},
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "bezier-easing": "^2.1.0"
+  }
+}
