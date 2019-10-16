@@ -1,7 +1,7 @@
 {
   "name": "@soulofmischief/easing-curves",
   "description": "A collection of easing curves for animating between values",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "soulofmischief",
     "email": "soulofmischief@protonmail.com",
@@ -10,7 +10,9 @@
   "homepage": "https://github.com/soulofmischief/easing-curves",
   "license": "MIT",
   "bugs": {},
-  "files": [ "/index.js"],
+  "files": [
+    "/index.js"
+  ],
   "main": "/index.js",
   "repository": {},
   "scripts": {},
